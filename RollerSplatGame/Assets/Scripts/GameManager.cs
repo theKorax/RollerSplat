@@ -40,4 +40,28 @@ public class GameManager : MonoBehaviour
     {
         SetUpNewLevel();
     }
+
+    public void CheckComplete()
+    {
+        bool isFinished = true;
+        for(int i=0; i < allGroundPieces.Length; i++)
+        {
+            if (allGroundPieces[i].isColoured == false)
+            {
+                isFinished = false;
+                break;
+            }
+        }
+        if (isFinished)
+        {
+            // Next Level
+            NextLevel();
+
+        }
+    }
+
+    private void NextLevel()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
 }
