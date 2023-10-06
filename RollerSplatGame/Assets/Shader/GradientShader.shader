@@ -29,7 +29,7 @@ Shader "Custom/GradientShader"
 
         void surf (Input IN, inout SurfaceOutputStandard o)
         {
-            float2 screenUV = (IN.screenPos.xy / IN.screenPos.w)
+            float2 screenUV = (IN.screenPos.xy / IN.screenPos.w);
             screenUV.y = 1 - screenUV.y;
             fixed4 color = lerp(_TopColor, _BottomColor, screenUV.y);
             o.Albedo = color.rpg;
