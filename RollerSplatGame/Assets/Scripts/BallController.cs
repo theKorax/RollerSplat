@@ -83,5 +83,7 @@ public class BallController : MonoBehaviour
         {
             nextCollisionPosition = hit.point;
         }
+
+        isTraveling = true;
     }
 }
