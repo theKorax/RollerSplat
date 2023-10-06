@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 24719
+  controlID: 25128
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -236,9 +236,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 22ddfeff
-      m_LastClickedID: -74462
-      m_ExpandedIDs: 2cfbfffffe580000
+      m_SelectedIDs: c857feff
+      m_LastClickedID: -108600
+      m_ExpandedIDs: 3658feff8a99feff2cfbfffffe5800001e940000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -657,9 +657,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3, y: -2.5, z: 0}
+    m_Target: {x: -3.0976272, y: -2.772132, z: -1.2086527}
     speed: 2
-    m_Value: {x: -3, y: -2.5, z: 0}
+    m_Value: {x: -3.0976272, y: -2.772132, z: -1.2086527}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -705,13 +705,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.3355568, y: -0.025156703, z: 0.008904138, w: 0.94167954}
+    m_Target: {x: 0.5657792, y: -0.08231378, z: 0.056827392, w: 0.8185123}
     speed: 2
-    m_Value: {x: -0.3355568, y: 0.025156705, z: -0.008904139, w: -0.94167954}
+    m_Value: {x: 0.5659263, y: -0.07985494, z: 0.055127777, w: 0.8187255}
   m_Size:
-    m_Target: 2.8138802
+    m_Target: 4.1816936
     speed: 2
-    m_Value: 2.8138802
+    m_Value: 4.1816936
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -833,7 +833,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Materials
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -841,7 +841,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Zikki\Desktop\Coder's Delight\Career Stuff\GameUp Unity
     Projects\RollerSplat\RollerSplatGame
@@ -849,8 +849,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a6590000
-    m_LastClickedID: 22950
+    m_SelectedIDs: 7a590000
+    m_LastClickedID: 22906
     m_ExpandedIDs: 0000000038590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -904,9 +904,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 22ddfeff
-    m_LastClickedInstanceID: -74462
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: c857feff
+    m_LastClickedInstanceID: -108600
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
