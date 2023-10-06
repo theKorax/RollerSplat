@@ -66,6 +66,8 @@ public class BallController : MonoBehaviour
                     SetDestination(currentSwipe.x > 0 ? Vector3.right : Vector3.left);
                 }
             }
+
+            swipePosLastFrame = swipePosCurrentFrame;
         }
 
         if (Input.GetMouseButtonUp(0))
