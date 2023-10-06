@@ -32,6 +32,7 @@ public class BallController : MonoBehaviour
             {
                 isTraveling = false;
                 travelDirection = Vector3.zero;
+                nextCollisionPosition = Vector3.zero;
             }
         }
 
