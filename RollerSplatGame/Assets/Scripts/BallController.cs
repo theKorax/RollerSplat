@@ -41,7 +41,7 @@ public class BallController : MonoBehaviour
             return; // exits the FixedUpdate method and doesn't execute any of the lines of code below this point
         }
 
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButton(0))
         {
             swipePosCurrentFrame = new Vector2(Input.mousePosition.x, Input.mousePosition.y);
             if(swipePosLastFrame != Vector2.zero)
