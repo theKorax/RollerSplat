@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 35394
+  controlID: 37218
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -236,9 +236,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c857feff
-      m_LastClickedID: -108600
-      m_ExpandedIDs: 3658feff8a99feff2cfbfffffe5800001e940000
+      m_SelectedIDs: 42590000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 86fefdff3658feff8a99feff2cfbfffffe5800001e940000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -281,8 +281,8 @@ MonoBehaviour:
     y: 0
     width: 820
     height: 369
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 8}
   m_Panes:
   - {fileID: 8}
@@ -707,7 +707,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.5657792, y: -0.08231378, z: 0.056827392, w: 0.8185123}
     speed: 2
-    m_Value: {x: 0.5657584, y: -0.08231076, z: 0.056825306, w: 0.8184823}
+    m_Value: {x: -0.5657792, y: 0.08231378, z: -0.056827392, w: -0.8185123}
   m_Size:
     m_Target: 4.1816936
     speed: 2
@@ -833,7 +833,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -841,7 +841,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Zikki\Desktop\Coder's Delight\Career Stuff\GameUp Unity
     Projects\RollerSplat\RollerSplatGame
@@ -849,8 +849,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7a590000
-    m_LastClickedID: 22906
+    m_SelectedIDs: 3e590000
+    m_LastClickedID: 22846
     m_ExpandedIDs: 0000000038590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -904,9 +904,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: c857feff
-    m_LastClickedInstanceID: -108600
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 42590000
+    m_LastClickedInstanceID: 22850
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -988,8 +988,8 @@ MonoBehaviour:
     y: 0
     width: 661
     height: 306
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
